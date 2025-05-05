@@ -20,13 +20,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 
 ---
 
-## 📊 GitHub Stats
-![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanutiwarii&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
-- 💼 LinkedIn: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tannu-tiwari-023177242/)
+- 💼 LinkedIn:([tanutiwarii](https://www.linkedin.com/in/tannu-tiwari-023177242/)
 - 📧 Email: [tannutiwari9953.com](mailto:tannutiwari9953.com)
 
 ---
