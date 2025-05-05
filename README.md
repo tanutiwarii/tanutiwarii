@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves expl
 ---
 
 ## 📫 Let's Connect!
-- 💼 LinkedIn:([tanutiwarii](https://www.linkedin.com/in/tannu-tiwari-023177242/)
+- 💼 LinkedIn:[tanutiwarii](https://www.linkedin.com/in/tannu-tiwari-023177242/)
 - 📧 Email: [tannutiwari9953.com](mailto:tannutiwari9953.com)
 
 ---
