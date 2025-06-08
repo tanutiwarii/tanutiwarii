@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a final year Computer Science Engineering student, specializing in Data Science.<br>🌱 Currently learning and improving my skills in Data Structures & Algorithms (DSA).<br>💻 Proficient in Python and C++.<br>🤖 Enthusiastic about Artificial Intelligence, especially Deep Learning and Machine Learning.<br>📚 Passionate about exploring topics like AI ethics and generativeAI.<br>🌍 Open to collaborating on innovative open-source projects that can make a difference.
+🎓 I’m a final year Computer Science Engineering student, specializing in Data Science.<br>🌱 Currently learning and improving my skills in Data Structures & Algorithms (DSA).<br>💻 Proficient in Python and C++.<br>🤖 Enthusiastic about Artificial Intelligence, especially Deep Learning and Machine Learning.<br>📚 Passionate about exploring topics like AI ethics, generativeAI and agenticAI.<br>🌍 Open to collaborating on innovative open-source projects that can make a difference.
 
 
 ## 🌐 Socials:
